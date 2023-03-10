@@ -1,0 +1,12 @@
+Start of first Chunk A is: 8
+Start of first Chunk A is: 4104
+Start of first Chunk A is: 8200
+Start of first Chunk A is: 12296
+Start of first Chunk A is: 16392
+Start of first Chunk A is: 20488
+freed object A at 8200
+freed object A at 12296
+Start of Chunk B is: 8200
+Start of Chunk B is: 24584
+Start of Chunk C is: 524296
+Start of Chunk C is: 1048584

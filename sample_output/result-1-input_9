@@ -1,0 +1,8 @@
+Start of first Chunk A is: 16
+Start of first Chunk A is: 2024
+Start of first Chunk A is: 4032
+Start of first Chunk A is: 6040
+Allocation Error B
+freed object A at 16
+freed object A at 6040
+Start of Chunk C is: 262160

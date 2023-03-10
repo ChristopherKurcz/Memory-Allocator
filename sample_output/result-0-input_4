@@ -1,0 +1,25 @@
+Start of first Chunk A is: 8
+Start of first Chunk A is: 2056
+Start of first Chunk A is: 4104
+Start of first Chunk A is: 6152
+Start of first Chunk A is: 8200
+freed object A at 8
+freed object A at 2056
+freed object A at 4104
+freed object A at 6152
+freed object A at 8200
+Start of Chunk B is: 8
+Start of Chunk B is: 2056
+Start of Chunk B is: 4104
+Start of Chunk B is: 6152
+Start of Chunk B is: 8200
+freed object B at 8
+freed object B at 2056
+freed object B at 4104
+freed object B at 6152
+freed object B at 8200
+Start of Chunk C is: 8
+Start of Chunk C is: 2056
+Start of Chunk C is: 4104
+Start of Chunk C is: 6152
+Start of Chunk C is: 8200

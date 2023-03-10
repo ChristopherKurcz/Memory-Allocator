@@ -1,0 +1,6 @@
+Start of first Chunk A is: 8
+Start of Chunk B is: 524296
+freed object A at 8
+Start of Chunk C is: 8
+freed object B at 524296
+Start of Chunk D is: 524296
